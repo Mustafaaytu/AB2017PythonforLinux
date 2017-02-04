@@ -7,7 +7,7 @@ def str():
     periler="-";
     print(periler.join([s,s1]));
 
-    print(periler.join(["yeliz","yavuz","eren"]));
+    print(periler.join(["yeliz","yavuz","eren","mustafa"]));
     s2=" eren";
     print(s2,s2.strip());
 
